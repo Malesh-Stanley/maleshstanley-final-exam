@@ -164,3 +164,21 @@ nav ul li a:hover::after{
     color: darkblue;
     padding: 3px 0;
 }
+.speech{
+    text-align: center;
+    width: 1000px;
+    margin-top: 15%;
+}
+.speech h2{
+    font-size: 50px;
+    color: white;
+}
+.speech p{
+    text-align: center;
+    color: white;
+    padding: 3px 0;
+}
+.speech h3{
+    font-size: 20px;
+    color: blue;
+}
