@@ -135,5 +135,32 @@ nav ul li a:hover::after{
     margin-left: 5px;
 }
 .css {
-    
+    text-align: center;
+    width: 1000px;
+    margin-top: 10%;
+}
+.css h1{
+    font-size: 100px;
+    color: white;
+
+}
+.css h3{
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+.css p{
+    margin: 15px 10px;
+    color: white;
+}
+.col h1{
+    margin-top: 10%;
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+}
+.col p{
+    text-align: center;
+    color: darkblue;
+    padding: 3px 0;
 }
